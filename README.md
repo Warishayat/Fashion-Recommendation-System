@@ -1,2 +1,2 @@
 # Fashion-Recommendation-System
-#deepLearning , #Data-preprocessing , #exploratiryDataAnalysis , #N ,#Prediction
+#deepLearning , #Data-preprocessing , #exploratiryDataAnalysis , #CNN ,#webapp
