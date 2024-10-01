@@ -1,7 +1,3 @@
-Sure! Below is a sample README.md file and a requirements.txt file for your project.
-
-### README.md
-
 ```markdown
 # Fashion Recommendation System
 
