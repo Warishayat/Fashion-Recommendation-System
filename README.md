@@ -1,4 +1,3 @@
-```markdown
 # Fashion Recommendation System
 
 This project implements a Fashion Recommendation System using a pre-trained ResNet50 model for feature extraction from images. The system utilizes a Nearest Neighbors algorithm to recommend similar fashion items based on an uploaded image.
@@ -75,8 +74,4 @@ Pillow
 tqdm
 ```
 
-### Instructions for Use
 
-1. Replace `yourusername` in the README with your actual GitHub username.
-2. Make sure your directory structure includes an `images/` folder for the dataset and an `uploads/` folder for user-uploaded images.
-3. You may want to add more detailed instructions on how to run the model or preprocess the data, depending on your audience.
